@@ -36,7 +36,7 @@ I am a **Senior Mobile Engineer | Technical Architect | Engineering Leader** wit
 
 ## 📫 Contact Me
 - 📧 Email: [crisnguyengl@gmail.com](mailto:crisnguyengl@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/crisnguyengl](https://www.linkedin.com/in/crisnguyengl/)
+- 💼 LinkedIn: [linkedin.com/in/anhvu2889](https://www.linkedin.com/in/anhvu2889/)
 
 ## ⚡ Fun Fact
 I enjoy mentoring developers, solving complex problems, and exploring new frameworks and tools to **build better apps**!
